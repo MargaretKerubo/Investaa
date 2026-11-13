@@ -1,5 +1,8 @@
 # Investaa
-### Making Investing Make Sense.
+### Empowering Your Investment Journey.
+#### *Discover. Understand. Invest.*
+
+---
 
 **Investaa** is an AI-powered investment discovery and guidance platform designed to make investing more accessible, understandable and approachable for everyday individuals.
 
@@ -71,21 +74,55 @@ Investaa will initially focus on the Kenyan market, particularly:
 
 To create a more financially informed society where individuals have the knowledge, confidence and resources to participate in investment opportunities and make better financial decisions.
 
-## Project Status
+## Project Status & Roadmap
 
-**Current Stage: Concept Development**
+Investaa is currently in the concept and initial product design stage.
 
-Investaa is currently in its early conceptual stage.
+The initial UI/UX wireframes have been developed to visualise the proposed user experience, interface structure, and key platform features.
 
-Progress so far:
+Current progress:
+- [x] Concept development and problem identification
+- [x] Initial product overview and feature definition
+- [x] Initial UI/UX wireframes and design concepts
+- [ ] Conduct market research and validate the concept.
+- [ ] Define the technical architecture.
+- [ ] Develop the minimum viable product (MVP).
+- [ ] Test and validate with potential users.
+- [ ] Explore partnerships and market introduction.
 
-- Identified the investment knowledge and accessibility gap.
-- Defined the initial problem statement and proposed solution.
-- Established the initial target audience and geographical focus.
-- Identified potential investment categories and core product features.
-- Developed the initial product vision and direction.
+The platform is not yet a functional application. Development and validation are planned next steps.
 
-The next steps involve market research, user validation, product design, technical architecture and MVP development.
+## Product Design & Wireframes
+
+The initial UI/UX designs provide a visual representation of Investaa's proposed interface and user experience. They explore how users could discover investment opportunities, understand different investment options, access simplified financial information, and interact with an AI-powered investment assistant.
+
+These designs are preliminary concepts intended to guide future development.
+
+### Design Previews
+
+**1. Welcome Page**
+
+![Investaa Welcome Page](design/screenshots/welcome.png)
+
+**2. Explore Investments**
+
+![Explore Investments](design/screenshots/explore-investments.png)
+
+**3. Investment Details**
+
+![Investment Details](design/screenshots/investment-details.png)
+
+**4. AI Investment Assistant**
+
+![AI Investment Assistant](design/screenshots/ai-assistant.png)
+
+### Full Design Document
+
+For a more comprehensive view of the initial designs, see the full PDF:
+
+[**View Investaa – Initial UI/UX Design Concepts (PDF)**](design/investaa-design-concepts.pdf)
+
+> **Note:** These are preliminary design concepts and wireframes, not screenshots of a working application. They illustrate the proposed product direction and functionality.
 
 ## Proposed Technology Direction
 
@@ -98,18 +135,6 @@ The following technologies and capabilities are being explored for the eventual 
 - **Integration:** Potential integration with relevant financial information providers.
 
 Technology choices will be finalized as the project progresses.
-
-## Roadmap
-
-- [x] Identify the problem and opportunity.
-- [x] Define the initial product concept.
-- [x] Identify target users and potential features.
-- [ ] Conduct market research and validate the concept.
-- [ ] Develop user journeys and product wireframes.
-- [ ] Define the technical architecture.
-- [ ] Develop the minimum viable product (MVP).
-- [ ] Test and validate with potential users.
-- [ ] Explore partnerships and market introduction.
 
 ## Responsible Investment Approach
 
@@ -131,8 +156,8 @@ Investaa is at an early stage, and we welcome opportunities to connect with indi
 
 **Email:** neemamargaret2@gmail.com
 
-**Location:** Kenya
+**Location:** Kisumu, Kenya
 
 ---
 
-*Investaa — Making investing make sense.*
+*Investaa — Empowering Your Investment Journey.*
